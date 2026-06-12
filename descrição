@@ -1,0 +1,134 @@
+Desafio DIO - Wireframe de Média Fidelidade
+Descrição
+Este projeto consiste na criação de um wireframe de média fidelidade para uma página única (One Page) de um produto digital.
+
+Objetivo
+Desenvolver uma interface organizada, intuitiva e visualmente clara para apresentar um produto e conduzir o usuário pelas principais informações da página.
+
+Ferramentas Utilizadas
+Lovable
+GitHub
+Markdown
+Estrutura da Página
+Header
+Hero Section
+Benefícios
+Funcionalidades
+Chamada para ação (CTA)
+Footer
+Aprendizados Aplicados
+Durante o desenvolvimento foram considerados conceitos de usabilidade, organização visual, hierarquia de informações e experiência do usuário abordados ao longo do curso.
+
+Arquivos do Projeto
+Este repositório contém os arquivos utilizados no desenvolvimento do wireframe e materiais complementares para sua compreensão.
+
+  ##PRD
+
+  # Desafio DIO - Wireframe de Média Fidelidade
+
+## Sobre o Projeto
+
+Este projeto consiste na criação de um wireframe de média fidelidade para uma Landing Page One Page do LeadForge AI, uma plataforma CRM inteligente com automações e inteligência artificial para gestão comercial.
+
+## Objetivo
+
+O objetivo da página é apresentar de forma clara a proposta de valor do produto, destacar seus benefícios e conduzir o usuário para uma ação principal: iniciar um teste gratuito.
+
+## Público-Alvo
+
+* Pequenas e médias empresas
+* Agências de marketing
+* Consultores
+* Equipes comerciais
+
+## Estrutura da Página
+
+### Header
+
+Navegação simples e objetiva para facilitar o acesso às principais seções.
+
+### Hero Section
+
+Apresentação da proposta de valor principal com CTA em destaque.
+
+### Benefícios
+
+Demonstração dos principais ganhos para o usuário.
+
+### Como Funciona
+
+Fluxo simplificado para reduzir a carga cognitiva.
+
+### Demonstração da Plataforma
+
+Prévia visual do produto para aumentar a confiança.
+
+### Depoimentos
+
+Aplicação de prova social para aumentar credibilidade.
+
+### Planos
+
+Comparação clara entre opções disponíveis.
+
+### CTA Final
+
+Reforço da proposta de valor e incentivo à conversão.
+
+## Conceitos de UX Aplicados
+
+### Lei de Hick
+
+Redução do número de opções para facilitar a tomada de decisão.
+
+### Hierarquia Visual
+
+Uso de títulos, espaçamentos e elementos de destaque para direcionar a atenção do usuário.
+
+### Reconhecimento ao invés de Memorização
+
+Utilização de ícones, seções organizadas e elementos familiares.
+
+### Consistência e Padronização
+
+Manutenção de padrões visuais e comportamentais ao longo da interface.
+
+### Feedback Visual
+
+Botões e áreas de ação destacados visualmente.
+
+## Psicologia Aplicada
+
+### Escaneabilidade
+
+Conteúdo organizado para leitura rápida.
+
+### Prova Social
+
+Utilização de depoimentos para gerar confiança.
+
+### Princípio da Simplicidade
+
+Interface limpa com foco na ação principal.
+
+### Foco na Conversão
+
+Estrutura construída para conduzir o usuário ao CTA principal.
+
+## Ferramentas Utilizadas
+
+* Figma
+* GitHub
+* Markdown
+
+## Protótipo
+
+Inserir aqui o link do Figma.
+
+## Imagens
+
+As capturas de tela do wireframe estão disponíveis na pasta /images.
+
+
+Autor
+Leonardo Machado
